@@ -1,0 +1,19 @@
+
+body
+{
+	background-color:#e3e3e3;
+}
+div
+{
+	width: 500px;
+	margin: auto;
+	font-family: sans-serif;
+}
+.border1
+{
+	border-style: solid;
+	border-width: 2px;
+    border-color: white;
+	text-align: center;
+	padding: 15px;
+}
